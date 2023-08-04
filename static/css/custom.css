@@ -1,0 +1,19 @@
+p a { 
+    border: none; 
+    text-decoration: underline;
+}
+.logos {
+    display: flex;
+    justify-content: center;
+}
+.logos img {
+    height: 100px;
+}
+.section {
+    padding-top: 75px;
+}
+@media (min-width: 992px) {
+    .section {
+        padding-top: 100px;
+    }
+}

@@ -1,0 +1,89 @@
+baseURL = "https://www.schmetterlinge.org/"
+languageCode = "de"
+theme = "raditian"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/rad-icons.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"
+
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "js/rad-animations.js"
+  [[params.plugins.js]]
+  URL = "js/sticky-header.js"
+  [[params.plugins.js]]
+  URL = "js/library/fontfaceobserver.js"
+
+
+# navigation
+[menu]
+
+  [[menu.header]]
+  name = "Über"
+  URL = "#about"
+  weight = 2
+
+  [[menu.header]]
+  name = "Warum"
+  URL = "#warum"
+  weight = 3
+
+  [[menu.header]]
+  name = "Wie"
+  URL = "#wie"
+  weight = 3
+
+  [[menu.header]]
+  name = "Mitmachen"
+  URL = "#mitmachen"
+  weight = 4
+
+  [[menu.header]]
+  name = "Kontakt"
+  URL = "#kontakt"
+  weight = 5
+
+  [[menu.footer]]
+  name = "Über"
+  URL = "#about"
+  weight = 2
+
+  [[menu.footer]]
+  name = "Warum"
+  URL = "#warum"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Wie"
+  URL = "#wie"
+  weight = 3
+
+  [[menu.footer]]
+  name = "Mitmachen"
+  URL = "#mitmachen"
+  weight = 4
+
+  [[menu.footer]]
+  name = "Kontakt"
+  URL = "#kontakt"
+  weight = 5
+
+
+[params]
+
+  sections = ["showcase", "about", "info", "education", "wie", "mitmachen", "client-and-work", "testimonial", "contact", "newsletter"]
+
+  [params.logo]
+    text1 = "Die"
+    text2 = "Schmetterlinge"
+    image = "img/logo.webp"
+
+  [params.footer]
+      copyright = "Die Schmetterlinge 🦋"

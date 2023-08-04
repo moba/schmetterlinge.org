@@ -1,0 +1,20 @@
+{{ if .Site.Data.homepage.info.enable }}
+<section class="rad-info rad-info--index rad-animation-group rad-fade-down">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-sm-12 col-md-8 col-lg-7 col-xl-12">
+        <h1 class="display-1">
+          {{ .Site.Data.homepage.info.title }}
+          <br />
+          <span
+            >{{ .Site.Data.homepage.info.subtitle }}</span
+          >
+        </h1>
+        <p class="lead">
+          {{ .Site.Data.homepage.info.content | safeHTML }}
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}

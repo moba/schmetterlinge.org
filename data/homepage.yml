@@ -1,0 +1,260 @@
+# homepage
+head:
+    title: "Die Schmetterlinge"
+
+# showcase
+showcase:
+  enable: true
+  title: "Die Schmetterlinge"
+  subtitle: "Wir helfen Kindern, ihre Flügel zu entfalten."
+  description: "Jeden Tag werden tausende Kinder in Deutschland Opfer von Gewalt. Vernachlässigung und emotionale Gewalt in der Familie, Schikane und Mobbing auf dem Schulhof und in den sozialen Medien sowie Schläge oder sexuelle Übergriffe werfen einen Schatten auf ihr Aufwachsen und lösen großes Leid aus. Viel zu oft bleiben solche Taten unentdeckt. Scham und oft auch die perfiden Drohungen der Täter halten die Kinder davon ab, sich jemandem anzuvertrauen."
+  image:
+    alt: "Schmetterlinge"
+    x: "img/schmetterlinge.png"
+    _2x: "img/schmetterlinge.png"
+  imageMobile:
+    alt: "Schmetterlinge"
+    x: "img/schmetterlinge-mobile.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Kontakt"
+    URL: "#kontakt"
+
+  socialLinks:
+
+# about
+about:
+  enable: true
+  title: "Schreib, was du nicht sagen kannst."
+  content: "Die Schmetterlinge setzen sich dafür ein, Kinder zu stärken und ihnen die Möglichkeit zu geben, ihr Schweigen zu brechen. Dafür klären wir Kinder über ihre Rechte auf und installieren Briefkästen an Schulen, in Vereinen sowie an weiteren Orten, an denen sich Kinder aufhalten. Unter dem Motto „Schreib auf, was du nicht sagen kannst“ laden wir sie ein, ihre Erlebnisse zu Papier zu bringen, damit ihnen geholfen werden kann. Ein professionelles Team wertet die Nachrichten der Kinder sorgfältig aus und leitet Verdachtsfälle an die zuständigen Stellen weiter."
+  image:
+    x: "img/schreib.jpg"
+    _2x: "img/schreib@2x.jpg"
+    alt: "Photo by Susana Coutinho on Unsplash"
+
+# info
+info:
+  enable: true
+  title: ""
+  content: "Laurent Boyet, Polizist und Gründer der <a href='https://www.associationlespapillons.org/'>Association Les Papillons</a> in Frankreich, hat selbst als Kind sexuelle Gewalt erfahren.  Mit unermüdlichem Engagement setzt er sich seit einigen Jahren dafür ein, das Leid der Opfer sichtbar zu machen und sie auf allen Ebenen zu unterstützen. Mithilfe von Boyets Verein konnte in Frankreich bereits zahlreichen Kindern geholfen und Täter zur Rechenschaft gezogen werden. <a href='https://sz-magazin.sueddeutsche.de/die-loesung-fuer-alles/kinder-kummerkasten-briefkasten-missbrauch-92374'>Die Süddeutsche Zeitung berichtete im Januar 2023 über das Projekt</a>. Mit den „Schmetterlingen“ entsteht nun ein deutschsprachiger Ableger. Als Träger konnten wir den <b>Kinderschutzbund München</b> gewinnen.<p/>
+    Wir helfen Kindern, ihre Flügel zu entfalten und unbeschwert ihren Weg ins Leben zu finden."
+
+wie:
+  enable: true
+  title: "Das Projekt"
+  image: 
+    src: /img/briefkaesten.jpg
+    title: "Briefkästen der Association Les Papillons"
+  items:
+    - content: 'Wenn Kinder heftiges Leid ertragen, ist die Hemmschwelle, um darüber zu sprechen, häufig groß. Zu groß ist die Scham, um sich jemandem persönlich anzuvertrauen, daher schaffen es viele Opfer nicht, über ihr Martyrium zu sprechen, zumal ihnen dies häufig von den Tätern verboten wird.'
+    - content: "Wenn Kindern die Chance gegeben wird, über erlebtes Leiden oder ihre Sorgen in einem Brief zu schreiben oder zu malen, wird die Hemmschwelle deutlich niedriger. Zumal, wenn es sich bei den Adressaten um Personen handelt, die die betroffenen Kinder nicht persönlich kennen, von denen sie aber wissen, dass diese sich für ihre Rechte einsetzen werden.
+Schulen sind ein Ort, an dem wir alle Kinder, unabhängig von ihrer sozialen oder familiären Herkunft, erreichen können. Auch in Vereinen kann man viele Kinder erreichen. Daher setzt unser Projekt dort an."
+    - content: "Wir freuen uns, dass unser Projekt auch beim Kinderschutzbund Ortsverband München auf Begeisterung gestoßen ist, sodass wir eine Kooperation miteinander eingegangen sind. Aktuell starten wir diesen Juli 2023 mit einer Pilotschule, einer Grundschule in München. Langfristiges Ziel ist es dann, das Projekt flächendeckend deutschlandweit und über verschiedene Schulformen wie Grundschulen und Sekundarstufen zu verbreiten, sodass möglichst viele Kinder erreicht werden können."
+    - content: "Wir versuchen, das Projekt für die teilnehmenden Schulen und Vereine durch Spenden so kostengünstig wie möglich zu halten, langfristiges Ziel wäre hierbei eine komplette Finanzierung durch Spenden. Momentan belaufen sich die Kosten auf 200 Euro pro Einrichtung und Schuljahr."
+    - content: "Wenn wir eine Schule oder einen Verein ausgewählt haben, stellen wir dort einen – oder auch mehrere – unserer Briefkästen auf. Die Briefkästen sollten an Stellen stehen, die prinzipiell von jedem erreichbar, aber schwer von anderen einsehbar sind. Beispiele sind auf den Schultoiletten / in einem abgelegenen Flur. Gerne unterstützen wir bei der Wahl eines geeigneten Standortes. Die Briefkästen sind eindeutig als „Schmetterlingspost“ gekennzeichnet und es werden die Abholtage (in der Regel 2x/Woche) darauf markiert. In unmittelbarer Nähe des Briefkastens hängt ein Poster, auf dem den Kindern schematisch skizziert wird, worum es geht. Worüber sie schreiben oder zeichnen können, was zu beachten ist und wie es mit der Post weitergeht."
+    - content: "Geplant sind perspektivisch in den weiterführenden Schulen darüber hinaus auch virtuelle Angebote, wo die Schüler online in einem passwortgeschützten Bereich Anzeigen stellen können und weitere Informationen finden."
+    - content: "Initial findet in der Schule oder dem Verein eine Schulung durch unsere Mitarbeiter oder, wenn gewünscht, durch von uns geschulte Lehrkräfte statt. Hierbei wird den Kindern in altersentsprechendem Rahmen, unterstützt durch Bildmaterial, erklärt, warum ein solcher Briefkasten aufgestellt wurde und wozu er dient. Den Kindern wird erklärt, wann es wichtig ist, sich Hilfe zu suchen und was mit ihrer Post im weiteren Verlauf passiert. Prinzipiell können Kinder alles, was ihnen Sorgen macht, mit uns teilen. Die Briefe sollten allerdings zur weiteren Nachverfolgung eindeutig mit Namen gekennzeichnet sein. Die Post wird von unseren Mitarbeitern in festen Intervallen geleert und eingescannt. Unsere Mitarbeiter, welche in direkten Kontakt mit den Kindern oder ihren Briefen kommen, haben sich zu Verschwiegenheit verpflichtet. Die Post wird dann an unser Analyseteam weitergeleitet, welches sich aus besonders geschultem Personal wie Ärzten, Lehrern, Therapeuten und Polizisten zusammensetzt. Diesen kommt die verantwortungsvolle Aufgabe zuteil, die Post auszuwerten und je nach Dringlichkeit notwendige Schritte einzuleiten. Die Antworten und Reaktionen hierauf sind so unterschiedlich, wie die Situation des individuellen Kindes und reichen von einer Beratung, dem Ansprechen eines Beratungslehrers oder des Klassenlehrers bis hin zu strafrechtlicher Verfolgung oder dem Einschalten von Polizei und Jugendamt. Dabei hat immer das Wohl des Kindes die oberste Priorität."
+
+mitmachen:
+  enable: true
+  title: "Mitmachen"
+  items:
+    - title: "Einrichtungen"
+      content: "Ihr arbeitet an einer Schule oder einem Verein und möchtet in eurer Einrichtung gerne einen Briefkasten der Schmetterlinge aufhängen? Setzt euch mit uns in Verbindung!"
+    - title: "Ehrenamtliche"
+      content: "Ihr findet unser Projekt toll und würdet euch gerne engagieren? Wir können noch viele Mitarbeiter*innen in unterschiedlichen Bereichen brauchen. Die Anforderungen sind sehr unterschiedlich und vielfältig und reichen von administrativen, technischen und organisatorischen Aufgaben bis zur Mitarbeit im Analyseteam, für das natürlich nur ausgewählte Professionen wie Psychotherapeuten / Ärzte / Polizisten mit entsprechender Erfahrung eingesetzt werden können. Keine Scheu, kontaktiert uns und wir schauen gemeinsam, wie ihr uns am besten unterstützen könnt."
+    - title: "Spenden"
+      content: "Wenn ihr uns einmalig spenden wollt, oder einen Dauerauftrag einrichten möchtet, verwendet bitte folgendes Spendenkonto mit dem Verwendungszweck „Schmetterlinge“.<br/><br/>
+<p/><p/>Deutscher Kinderschutzbund Ortsverband München e.V.<br/>Bank für Sozialwirtschaft<br/>IBAN: DE61370205000007811705<br/>BIC: BFSWDE33XXX"
+
+# education
+education:
+  enable: true
+  title: "Warum wir handeln müssen"
+  items:
+    - heading: "Ein bis zwei Kinder in jeder Schulklasse"
+      sub: "sind nach Schätzungen der WHO von sexueller Gewalt betroffen."
+
+    - heading: "15.520"
+      sub: '<a href="https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKriminalstatistik/PKS2022/PKSTabellen/BundFalltabellen/bundfalltabellen.html?nn=21174">Fälle von Missbrauch bei Kindern unter 14 Jahren kommen jährlich zur Anzeige</a>. Die allermeisten Fälle werden nicht aufgedeckt.'
+
+    - heading: "Drei von vier"
+      sub: "Fällen sexueller Gewalt finden innerhalb der Familie und des Freundes- und Bekanntenkreises statt."
+
+    - heading: "500.000"
+      sub: '<a href="https://zeichen-gegen-mobbing.de/zahlen">SchülerInnen sind nach vorsichtigen Schätzungen jährlich von Mobbing betroffen</a>. Doppelt so viele haben Angst vor Gewalt und Ausgrenzung in der Klasse und auf dem Schulhof.'
+
+    - heading: "16,7%"
+      sub: '<a hreF="https://www.tk.de/presse/themen/praevention/medienkompetenz/cybermobbing-studie-2136628?tkcm=aaus">der SchülerInnen haben Cyber-Mobbing erlebt</a>.'
+
+    - heading: "Mehr als 50% aller Erwachsenen"
+      sub: '<a href="https://www.uniklinik-ulm.de/aktuelles/detailansicht/jeder-sechste-haelt-ohrfeigen-in-der-erziehung-fuer-angebracht.html">befürworten Körperstrafen bei Kindern</a>.'
+
+    - heading: "Drei Kinder pro Woche"
+      sub: '<a href="https://unschlagbar-ev.de/zahlen-der-kindstotungen/">sterben aufgrund von Gewalteinwirkung</a>.'
+
+# experience
+experience:
+  enable: false
+  title: "Experience"
+  description: "Over 15+ years of experience working with companies from all over the world. I design & develop digital products to help businesses and improve people's lives."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/company/radity/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+    - title: "Sr. Front-End Developer"
+      company: "Radity"
+      duration: "Feb 2011 - Sep 2019"
+
+    - title: "Sr. Front-End Developer"
+      company: "Textic"
+      duration: "Apr 2010 - Jan 2011"
+
+    - title: "Jr. Front-End Developer"
+      company: "Cyberse"
+      duration: "Jun 2009 - Mar 2010"
+
+# Client & Work
+client_and_work:
+  title: "Clients & Works"
+  enable: false
+
+  clients:
+    - logo:
+        x: "img/clients/asgardia.png"
+        _2x: "img/clients/asgardia@2x.png"
+      alt: "Asgardia"
+
+    - logo:
+        x: "img/clients/earth-2.png"
+        _2x: "img/clients/earth-2@2x.png"
+      alt: "Earth 2.0"
+
+    - logo:
+        x: "img/clients/goldline.png"
+        _2x: "img/clients/goldline@2x.png"
+      alt: "Goldline"
+
+    - logo:
+        x: "img/clients/kanba.png"
+        _2x: "img/clients/kanba@2x.png"
+      alt: "Kanba"
+
+    - logo:
+        x: "img/clients/zoo-tv.png"
+        _2x: "img/clients/zoo-tv@2x.png"
+      alt: "Zoo"
+
+    - logo:
+        x: "img/clients/ztos.png"
+        _2x: "img/clients/ztos@2x.png"
+      alt: "Ztos"
+
+  works:
+    - title: "Radity Finance - UI Kit"
+      description: "We have been receiving a lot of requests for a Finance Kit recently due to the popularity of Fintech."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/radity-finance.jpg"
+        _2x: "img/works/radity-finance@2x.jpg"
+      is_even: true
+
+    - title: "Swiss Fintech Website"
+      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/swissfintech.jpg"
+        _2x: "img/works/swissfintech@2x.jpg"
+      is_even: false
+
+    - title: "Robo Advisor"
+      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Case Study"
+        URL: "#"
+      image:
+        x: "img/works/robo-advisor.jpg"
+        _2x: "img/works/robo-advisor@2x.jpg"
+      is_even: true
+
+# testimonial
+testimonial:
+  enable: false
+  title: "Testimonials"
+  items:
+    - name: "Daniel Jordan"
+      position: "Phonet, CEO"
+      content: "Cold calling can be a great way to generate quality leads. You get to speak to the gatekeepers and stakeholders, and you get a great insight into their requirements and influences. But cold calling is an art-form. It can be daunting, it’s always a lot of work, and you always need to make a good impression."
+      image:
+        x: "img/testimonials/daniel-jordan.jpg"
+        _2x: "img/testimonials/daniel-jordan@2x.jpg"
+
+    - name: "Jonathan Peters"
+      position: "Textic, CEO"
+      content: "Whether you or your loved one is encountering the natural decrease in mobility that occurs with the passing of time, or deals with an illness-related lack of physical agility, a stair lift can be the ideal way to put you in charge of your home again. Regardless of the shape or make of your living accommodation."
+      image:
+        x: "img/testimonials/jonathan-peters.jpg"
+        _2x: "img/testimonials/jonathan-peters@2x.jpg"
+
+    - name: "Antonio Willis"
+      position: "Cyberse, CEO"
+      content: "In this digital generation where information can be easily obtained within seconds, business cards still have retained their importance in the achievement of increased business exposure and business sales. If your business already has a bunch of printed cards distributed to a number of potential customers and yet."
+      image:
+        x: "img/testimonials/antonio-willis.jpg"
+        _2x: "img/testimonials/antonio-willis@2x.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Kontakt"
+  spenden: 'Wir organisieren uns rein ehrenamtlich und sind auf weitere Mitstreiter, Partner und Unterstützer angewiesen.<br/><br/>Spenden nehmen wir gerne über unseren gemeinnützigen Kooperationspartner entgegen. Bitte im Betreff <b>Schmetterlinge</b> angeben damit diese richtig zuordnet werden können!<p/><p/>Deutscher Kinderschutzbund Ortsverband München e.V.<br/>Bank für Sozialwirtschaft<br/>IBAN: DE61370205000007811705<br/>BIC: BFSWDE33XXX'
+  form:
+    method: "POST"
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+      #  phone:
+      #    title: "Phone Number"
+      #    number: "+41 (44) 505 10 99"
+  email:
+    title: "Email"
+    email: '<a href="mailto:kontakt@schmetterlinge.org">kontakt@schmetterlinge.org</a>'
+  address:
+    title: "Anschrift"
+    address: 'Die Schmetterlinge<br />c/o Kinderschutzbund München<br />Kapuzinerstraße 9C<br />80337 München'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+  logos:
+    - link: https://www.kinderschutzbund-muenchen.de/
+      alt: "Kinderschutzbund München e.V."
+      logo: /img/kinderschutzbund-muenchen.png
+    - link: https://www.erneuerbare-freiheit.de/
+      logo: /img/erneuerbarefreiheit.svg
+      alt: "Stiftung Erneuerbare Freiheit"
+    - link: https://www.associationlespapillons.org/
+      logo: /img/papillons.png
+      alt: "Association Les Papillons"
+
+# newsletter
+newsletter:
+  enable: false
+  title: "Newsletter subscription"
+  success_message: "Successfully subscribed"
+  error_message: "Error while subscribing."
+  note: "We'll never share your email with anyone else."
